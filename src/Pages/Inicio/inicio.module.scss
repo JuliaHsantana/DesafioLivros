@@ -1,0 +1,17 @@
+.primeiraSessaoInicio{
+   background-image: url('../../assets/livros.png');
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    padding-left: 6%;
+    
+    h2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+         width: 25%;
+         font-size: 32px;
+         color: white;
+    }
+}
