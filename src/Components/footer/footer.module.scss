@@ -1,4 +1,24 @@
-.footer {
+.contatosFooter {
     background-color: #005695;
+    color: white;
     height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4%;
+    align-items: center;
+
+    nav{
+        width: 15%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.copyrigth{
+    background: #232020;
+    color: white;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
