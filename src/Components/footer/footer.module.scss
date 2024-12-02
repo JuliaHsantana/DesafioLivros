@@ -26,3 +26,24 @@
         font-size: 15px;
     }
 }
+
+@media (max-width:768px){
+
+    .contatosFooter{
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 20vh;
+
+        nav{
+            width: 60%;
+        }
+    }
+     .copyrigth{
+        height: 10vh;
+        p{
+            font-size: 12px;
+            width: 60%;
+            text-align: center;
+        }
+     }
+}

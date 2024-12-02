@@ -29,4 +29,14 @@
         }   
     }
 }
-    
+ @media (max-width:768px){
+    .containerCard{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+         section{
+            width: 60%;
+
+         }
+    }
+ }
