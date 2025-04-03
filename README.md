@@ -29,6 +29,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 # Clone este repositório
 git clone https://github.com/JuliaHsantan/desafio-livros.git
 
+# Acesse o diretório
 cd desafio-livros
 
 # Instale as dependências
@@ -54,3 +55,7 @@ O frontend estará acessível em `http://localhost:5173`.
 ---
 
 💡 Desenvolvido por [Julia Santana](https://github.com/JuliaHsantana)
+
+![Tela de inicio](image.png)
+![Livros Doados](image-1.png)
+![quero Doar](image-2.png)
